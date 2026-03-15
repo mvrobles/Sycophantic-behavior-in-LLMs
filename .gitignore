@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Experiment logs (optional — remove if you want to track them)
+logs/*.json
+
+# uv
+.python-version
